@@ -1,2 +1,3 @@
 # Hello-world
-my first project
+I am excited to be part of this team
+See my first project. 
